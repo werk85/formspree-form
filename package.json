@@ -1,0 +1,30 @@
+{
+  "name": "formspree-form",
+  "version": "0.1.0",
+  "description": "Handler for formspree powered webforms.",
+  "main": "lib/formspree-form.js",
+  "scripts": {
+    "demo": "webpack-dev-server --content-base demo/"
+  },
+  "author": {
+    "name": "David Zacharias",
+    "email": "zacharias@werk85.de"
+  },
+  "homepage": "https://github.com/werk85/formspree-form",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/werk85/formspree-form.git"
+  },
+  "bugs": {
+    "url": "https://github.com/werk85/formspree-form/issues"
+  },
+  "dependencies": {
+    "jquery": "3.1.1",
+    "lodash": "4.16.2",
+    "validate-js": "2.0.1"
+  },
+  "devDependencies": {
+    "webpack": "1.14.0",
+    "webpack-dev-server": "1.16.2"
+  }
+}
