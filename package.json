@@ -21,7 +21,7 @@
   "dependencies": {
     "jquery": "3.1.1",
     "lodash": "4.16.2",
-    "validate-js": "2.0.1"
+    "validate-js": "1.5.1"
   },
   "devDependencies": {
     "webpack": "1.14.0",
